@@ -55,6 +55,15 @@ As effective and fast as possible
 
 ---
 
+# What is Big Data
+
+* Doesn't fit the single node (or Excel)
+* Maybe scaled when growing
+* Enough data to make reliable business solutions
+
+<!-- 3V: volume, velocity, variety -->
+---
+
 <!-- _class: lead -->
 
 # What is the most popular tool in DE?
@@ -70,3 +79,12 @@ As effective and fast as possible
 - Lazy sequences (streams, sequences, scala lazy)
 - Functional operations
 - SQL (or SQL-like)
+
+---
+
+# Differences in handling of Big and Small data
+
+Big data processing is 
+- Distributed
+- Requires sending large amount of data between nodes
+- Is built on map-reduce primitives

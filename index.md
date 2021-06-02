@@ -4,7 +4,7 @@ theme: gaia
 size: 4K
 class: default
 paginate: true
-footer: @asm0di0 &emsp13;&emsp13;@jbaruch
+footer: '![](images/twitter_24.png) [asm0di0](https://twitter.com/asm0di0)'
 backgroundImage: "linear-gradient(to bottom, #000 0%, #1a2028 50%, #293845 100%)"
 color: white
 title: Noname
@@ -24,5 +24,49 @@ footer {
 .hljs-params { color: lightpink }
 </style>
 
-# Name
+# Spark for Java Devs
 
+Pasha Finkelshteyn, JetBrains
+
+---
+
+![bg right:40%](images/avatar.jpg)
+
+# Who am I
+
+- ex system administrator
+- ex developer
+- ex team lead
+- ex data egineer
+- developer advocate for big data
+
+Together >14 years in IT
+
+---
+
+# Who are data engineers?
+
+Responsibilities:
+- Build your DWH
+- Build your DMP
+- Transfer and store your data
+
+As effective and fast as possible
+
+---
+
+<!-- _class: lead -->
+
+# What is the most popular tool in DE?
+
+---
+
+![bg fit](images/spark.png)
+
+---
+
+# What `J(ava|VM)` dev should know
+
+- Lazy sequences (streams, sequences, scala lazy)
+- Functional operations
+- SQL (or SQL-like)

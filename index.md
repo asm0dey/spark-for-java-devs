@@ -88,3 +88,15 @@ Big data processing is
 - Distributed
 - Requires sending large amount of data between nodes
 - Is built on map-reduce primitives
+
+---
+
+# What did we learn?
+
+- Spark is like streams
+- Spark supports joins
+- Spark allows us to work with big data in the same manner as with small
+- There are 3 APIs in Spark:
+    - Datasets (typed)
+    - Dataframes (untyped)
+    - SQL

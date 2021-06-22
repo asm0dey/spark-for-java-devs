@@ -28,12 +28,6 @@ footer {
 .hljs-params { color: lightpink }
 </style>
 
-# Spark for Java Devs
-
-Pasha Finkelshteyn, JetBrains
-
----
-
 ![bg right:40%](images/avatar.jpg)
 
 # Who am I

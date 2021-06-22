@@ -9,6 +9,10 @@ backgroundImage: "linear-gradient(to bottom, #000 0%, #1a2028 50%, #293845 100%)
 color: white
 title: Noname
 ---
+
+![bg fit](images/JMP0.svg)
+
+---
 <!--
 _class: lead
 _paginate: false

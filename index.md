@@ -98,3 +98,7 @@ Big data processing is
     - Datasets (typed)
     - Dataframes (untyped)
     - SQL
+
+---
+
+![bg fit](images/JMP.svg)
